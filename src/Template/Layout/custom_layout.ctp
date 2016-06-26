@@ -9,7 +9,7 @@
 	<title><?= h($dashboard['page_title']); ?></title>
 <body>
 	<?php
-		if($_SESSION['admin_account']!=''){
+		if(isset($_SESSION['admin_account'])!=''){
 			echo $this->element('navbar');
 		}else{
 

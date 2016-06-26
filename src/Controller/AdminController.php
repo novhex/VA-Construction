@@ -29,7 +29,7 @@ class AdminController extends AppController{
 
 	public function index(){
 		
-			if($_SESSION['admin_account']!=''){ 
+			if(isset($_SESSION['admin_account'])!=''){ 
 						
 							return $this->redirect(['action'=>'dashboard']);
 			}
