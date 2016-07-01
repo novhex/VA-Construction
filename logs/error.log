@@ -5913,3 +5913,3123 @@ Stack Trace:
 #1 {main}
 
 
+2016-06-27 03:25:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:25:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:25:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:25:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:26:14 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:26:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:28:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:28:57 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:49:45 Error: Fatal Error (1): Class 'App\Controller\Validator' not found in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 163]
+Request URL: /va/admin/supplies
+Referer URL: http://localhost/va/admin/supplies
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-27 03:49:46 Error: [Cake\Error\FatalErrorException] Class 'App\Controller\Validator' not found
+Request URL: /va/admin/supplies
+Referer URL: http://localhost/va/admin/supplies
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'App\\Cont...', 'C:\\xampp_new\\ht...', 163)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-27 03:53:21 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\xampp_new\htdocs\va\src\Model\Table\SuppliesTable.php, line 22]
+Request URL: /va/admin/supplies
+Referer URL: http://localhost/va/admin/supplies
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-27 03:53:21 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /va/admin/supplies
+Referer URL: http://localhost/va/admin/supplies
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 22)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-27 03:56:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:56:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:58:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:58:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:58:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:58:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:58:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 03:58:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 15:13:37 Error: [PDOException] SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Table.php(428): Cake\Database\Connection->schemaCollection()
+#8 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Marshaller.php(489): Cake\ORM\Table->schema()
+#9 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Table.php(2059): Cake\ORM\Marshaller->merge(Object(Cake\ORM\Entity), Array, Array)
+#10 C:\xampp_new\htdocs\va\src\Controller\HomeController.php(48): Cake\ORM\Table->patchEntity(Object(Cake\ORM\Entity), Array)
+#11 [internal function]: App\Controller\HomeController->inquries()
+#12 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#13 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#14 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#15 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#16 {main}
+
+
+2016-06-27 15:17:28 Warning: Warning (2): Illegal offset type in isset or empty in [C:\xampp_new\htdocs\va\vendor\aura\intl\src\Aura\Intl\Translator.php, line 94]
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+Aura\Intl\Translator::getMessage() - ROOT\vendor\aura\intl\src\Aura\Intl\Translator.php, line 94
+Aura\Intl\Translator::translate() - ROOT\vendor\aura\intl\src\Aura\Intl\Translator.php, line 127
+__ - CORE\src\I18n\functions.php, line 33
+App\Controller\HomeController::inquries() - APP/Controller\HomeController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-27 15:18:53 Warning: Warning (2): Illegal offset type in isset or empty in [C:\xampp_new\htdocs\va\vendor\aura\intl\src\Aura\Intl\Translator.php, line 94]
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+Aura\Intl\Translator::getMessage() - ROOT\vendor\aura\intl\src\Aura\Intl\Translator.php, line 94
+Aura\Intl\Translator::translate() - ROOT\vendor\aura\intl\src\Aura\Intl\Translator.php, line 127
+__ - CORE\src\I18n\functions.php, line 33
+App\Controller\HomeController::inquries() - APP/Controller\HomeController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-27 15:35:43 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\xampp_new\htdocs\va\src\Model\Table\InquriesTable.php, line 20]
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-27 15:35:44 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 20)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-27 15:39:41 Error: [Cake\View\Exception\MissingHelperException] Helper class validationErrorsHelper could not be found.
+Exception Attributes: array (
+  'class' => 'validationErrorsHelper',
+  'plugin' => NULL,
+)
+Request URL: /va/home/inquries
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Core\ObjectRegistry.php(91): Cake\View\HelperRegistry->_throwMissingClassError('validationError...', NULL)
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\HelperRegistry.php(66): Cake\Core\ObjectRegistry->load('validationError...')
+#2 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\HelperRegistry->__isset('validationError...')
+#3 C:\xampp_new\htdocs\va\src\Template\Home\inquries.ctp(10): Cake\View\View->__get('validationError...')
+#4 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(992): include('C:\\xampp_new\\ht...')
+#5 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(952): Cake\View\View->_evaluate('C:\\xampp_new\\ht...', Array)
+#6 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(587): Cake\View\View->_render('C:\\xampp_new\\ht...')
+#7 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#8 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#9 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#10 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#11 {main}
+
+
+2016-06-27 15:40:56 Error: [Cake\View\Exception\MissingHelperException] Helper class InquriesTableHelper could not be found.
+Exception Attributes: array (
+  'class' => 'InquriesTableHelper',
+  'plugin' => NULL,
+)
+Request URL: /va/home/inquries
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Core\ObjectRegistry.php(91): Cake\View\HelperRegistry->_throwMissingClassError('InquriesTable', NULL)
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\HelperRegistry.php(66): Cake\Core\ObjectRegistry->load('InquriesTable')
+#2 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\HelperRegistry->__isset('InquriesTable')
+#3 C:\xampp_new\htdocs\va\src\Template\Home\inquries.ctp(10): Cake\View\View->__get('InquriesTable')
+#4 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(992): include('C:\\xampp_new\\ht...')
+#5 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(952): Cake\View\View->_evaluate('C:\\xampp_new\\ht...', Array)
+#6 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(587): Cake\View\View->_render('C:\\xampp_new\\ht...')
+#7 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#8 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#9 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#10 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#11 {main}
+
+
+2016-06-27 15:44:18 Error: [Cake\View\Exception\MissingHelperException] Helper class InquriesTableHelper could not be found.
+Exception Attributes: array (
+  'class' => 'InquriesTableHelper',
+  'plugin' => NULL,
+)
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Core\ObjectRegistry.php(91): Cake\View\HelperRegistry->_throwMissingClassError('InquriesTable', NULL)
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\HelperRegistry.php(66): Cake\Core\ObjectRegistry->load('InquriesTable')
+#2 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(888): Cake\View\HelperRegistry->__isset('InquriesTable')
+#3 C:\xampp_new\htdocs\va\src\Template\Home\inquries.ctp(10): Cake\View\View->__get('InquriesTable')
+#4 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(992): include('C:\\xampp_new\\ht...')
+#5 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(952): Cake\View\View->_evaluate('C:\\xampp_new\\ht...', Array)
+#6 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(587): Cake\View\View->_render('C:\\xampp_new\\ht...')
+#7 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#8 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#9 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#10 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#11 {main}
+
+
+2016-06-27 15:51:03 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\xampp_new\htdocs\va\src\Model\Table\InquriesTable.php, line 24]
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-27 15:51:04 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 24)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-27 15:51:15 Error: Fatal Error (4): syntax error, unexpected 'return' (T_RETURN) in [C:\xampp_new\htdocs\va\src\Model\Table\InquriesTable.php, line 25]
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-27 15:51:15 Error: [Cake\Error\FatalErrorException] syntax error, unexpected 'return' (T_RETURN)
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 25)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-27 15:56:39 Error: Fatal Error (4): syntax error, unexpected end of file in [C:\xampp_new\htdocs\va\src\Template\Home\inquries.ctp, line 45]
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-27 15:56:39 Error: [Cake\Error\FatalErrorException] syntax error, unexpected end of file
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 45)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-27 15:58:32 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp_new\htdocs\va\src\Template\Home\inquries.ctp, line 16]
+Request URL: /va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Home\inquries.ctp, line 16
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-27 16:00:24 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp_new\htdocs\va\src\Template\Home\inquries.ctp, line 17]
+Request URL: /va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Home\inquries.ctp, line 17
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-27 16:04:18 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp_new\htdocs\va\src\Template\Home\inquries.ctp, line 93]
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Home\inquries.ctp, line 93
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-27 16:05:03 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp_new\htdocs\va\src\Template\Home\inquries.ctp, line 93]
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Home\inquries.ctp, line 93
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-27 16:28:06 Error: Fatal Error (1): Call to undefined function App\Model\Table\add() in [C:\xampp_new\htdocs\va\src\Model\Table\InquriesTable.php, line 24]
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-27 16:28:06 Error: [Cake\Error\FatalErrorException] Call to undefined function App\Model\Table\add()
+Request URL: /va/home/inquries
+Referer URL: http://localhost/va/home/inquries
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', 'C:\\xampp_new\\ht...', 24)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-27 16:45:01 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\xampp_new\htdocs\va\src\Model\Table\InquriesTable.php, line 22]
+Request URL: /va/home/inquries
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-27 16:45:02 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /va/home/inquries
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 22)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-27 16:57:46 Error: [Cake\Controller\Exception\MissingActionException] Action HomeController::admin() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'admin',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /va/home/admin
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#2 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2016-06-27 16:58:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 16:58:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 16:58:54 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 16:58:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 17:03:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 17:03:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 17:03:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 17:03:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 17:05:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 17:05:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 17:05:54 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 17:05:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 17:06:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 17:06:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 23:57:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/users/login
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 23:57:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/users/login
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 23:57:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/users/login
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 23:58:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/users/login
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 23:58:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/users/login
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-27 23:58:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Users could not be found.
+Exception Attributes: array (
+  'class' => 'Users',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/users/login
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 00:02:41 Error: Fatal Error (1): Call to a member function read() on a non-object in [C:\xampp_new\htdocs\va\src\Template\Admin\dashboard.ctp, line 3]
+Request URL: /va/admin/dashboard
+Referer URL: http://localhost/va/admin
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 00:02:42 Error: [Cake\Error\FatalErrorException] Call to a member function read() on a non-object
+Request URL: /va/admin/dashboard
+Referer URL: http://localhost/va/admin
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp_new\\ht...', 3)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 00:02:48 Error: Fatal Error (1): Call to a member function read() on a non-object in [C:\xampp_new\htdocs\va\src\Template\Admin\dashboard.ctp, line 3]
+Request URL: /va/admin/dashboard
+Referer URL: http://localhost/va/admin
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 00:02:49 Error: [Cake\Error\FatalErrorException] Call to a member function read() on a non-object
+Request URL: /va/admin/dashboard
+Referer URL: http://localhost/va/admin
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp_new\\ht...', 3)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 00:50:33 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 74]
+Request URL: /va/admin
+Referer URL: http://localhost/va/admin/dashboard
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 00:50:33 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '{'
+Request URL: /va/admin
+Referer URL: http://localhost/va/admin/dashboard
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 74)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 00:50:49 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 89]
+Request URL: /va/admin
+Referer URL: http://localhost/va/admin/dashboard
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 00:50:49 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '{'
+Request URL: /va/admin
+Referer URL: http://localhost/va/admin/dashboard
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 89)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 00:50:58 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 107]
+Request URL: /va/admin
+Referer URL: http://localhost/va/admin/dashboard
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 00:50:59 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '{'
+Request URL: /va/admin
+Referer URL: http://localhost/va/admin/dashboard
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 107)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 00:51:46 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 166]
+Request URL: /va/admin
+Referer URL: http://localhost/va/admin/dashboard
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 00:51:46 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '{'
+Request URL: /va/admin
+Referer URL: http://localhost/va/admin/dashboard
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 166)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 00:51:59 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 214]
+Request URL: /va/admin
+Referer URL: http://localhost/va/admin/dashboard
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 00:51:59 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '{'
+Request URL: /va/admin
+Referer URL: http://localhost/va/admin/dashboard
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 214)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 01:24:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:24:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:25:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:25:39 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:27:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:27:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:27:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:27:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:27:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:27:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:28:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:28:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:28:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:28:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:28:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:28:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:28:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:28:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:29:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:29:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:45:20 Error: [Cake\Controller\Exception\MissingActionException] Action HomeController::constructionsupplies() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'constructionsupplies',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /va/home/constructionsupplies?page=2
+Referer URL: http://localhost/va/home/constructionsupplies
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#2 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2016-06-28 01:45:25 Error: [Cake\Controller\Exception\MissingActionException] Action HomeController::constructionsupplies() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'constructionsupplies',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /va/home/constructionsupplies
+Referer URL: http://localhost/va/home/constructionsupplies?page=2
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#2 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2016-06-28 01:47:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:47:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:48:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:48:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:49:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:49:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:49:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:49:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:52:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:52:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:52:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 01:52:54 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:08:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Uploads could not be found.
+Exception Attributes: array (
+  'class' => 'Uploads',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/uploads/1461386506_411773.jpg
+Referer URL: http://localhost/va/home/products
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:08:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Uploads could not be found.
+Exception Attributes: array (
+  'class' => 'Uploads',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/uploads/1461477415_571044.jpg
+Referer URL: http://localhost/va/home/products
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:08:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Uploads could not be found.
+Exception Attributes: array (
+  'class' => 'Uploads',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/uploads/1461369313_103027.jpg
+Referer URL: http://localhost/va/home/products
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:08:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Uploads could not be found.
+Exception Attributes: array (
+  'class' => 'Uploads',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/uploads/1466999895_311218.jpg
+Referer URL: http://localhost/va/home/products
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:08:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Uploads could not be found.
+Exception Attributes: array (
+  'class' => 'Uploads',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/uploads/1461369262_831634.jpg
+Referer URL: http://localhost/va/home/products
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:14:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:14:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:24:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:24:56 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:27:37 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:27:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:31:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 02:31:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 03:15:47 Error: [Cake\Controller\Exception\MissingActionException] Action HomeController::cart() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'cart',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/products
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#2 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2016-06-28 03:17:22 Error: Fatal Error (1): Call to a member function ax() on a non-object in [C:\xampp_new\htdocs\va\src\Controller\HomeController.php, line 34]
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/products
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 03:17:22 Error: [Cake\Error\FatalErrorException] Call to a member function ax() on a non-object
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/products
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp_new\\ht...', 34)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 03:17:38 Error: Fatal Error (1): Call to a member function ax() on a non-object in [C:\xampp_new\htdocs\va\src\Controller\HomeController.php, line 34]
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/products
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 03:17:38 Error: [Cake\Error\FatalErrorException] Call to a member function ax() on a non-object
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/products
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp_new\\ht...', 34)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 03:25:39 Error: Fatal Error (1): Call to a member function ax() on a non-object in [C:\xampp_new\htdocs\va\src\Controller\HomeController.php, line 34]
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/products
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 03:25:39 Error: [Cake\Error\FatalErrorException] Call to a member function ax() on a non-object
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/products
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp_new\\ht...', 34)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 03:56:52 Error: Fatal Error (1): Class 'NekoCart\NekoCart' not found in [C:\xampp_new\htdocs\va\src\Controller\HomeController.php, line 91]
+Request URL: /va/home/neko
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 03:56:52 Error: [Cake\Error\FatalErrorException] Class 'NekoCart\NekoCart' not found
+Request URL: /va/home/neko
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'NekoCart...', 'C:\\xampp_new\\ht...', 91)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 03:57:53 Warning: Warning (2): require_once(C:\xampp_new\htdocs\va\vendor\NekoCart\NekoCart.php): failed to open stream: No such file or directory in [C:\xampp_new\htdocs\va\src\Controller\HomeController.php, line 91]
+Request URL: /va/home/neko
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\HomeController::neko() - APP/Controller\HomeController.php, line 91
+App\Controller\HomeController::neko() - APP/Controller\HomeController.php, line 91
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-28 03:58:28 Error: [Cake\View\Exception\MissingTemplateException] Template file "Home\neko.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Home\\neko.ctp',
+)
+Request URL: /va/home/neko
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(584): Cake\View\View->_getViewFileName(NULL)
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#2 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#3 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#4 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#5 {main}
+
+
+2016-06-28 04:01:02 Error: [Cake\Controller\Exception\MissingActionException] Action HomeController::neko() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'neko',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /va/home/neko
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#2 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2016-06-28 04:08:26 Error: [Cake\Controller\Exception\MissingActionException] Action HomeController::neko() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'neko',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /va/home/neko
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#2 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2016-06-28 04:29:41 Warning: Warning (512): Method App\View\Helper\vaHelper::base_url does not exist in [C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\Helper.php, line 140]
+Request URL: /va/home/products
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+Cake\View\Helper::__call() - CORE\src\View\Helper.php, line 140
+App\View\Helper\vaHelper::base_url() - APP/Template\Home\products.ctp, line 6
+include - APP/Template\Home\products.ctp, line 6
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-28 04:29:51 Warning: Warning (512): Method App\View\Helper\vaHelper::baseurl does not exist in [C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\Helper.php, line 140]
+Request URL: /va/home/products
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+Cake\View\Helper::__call() - CORE\src\View\Helper.php, line 140
+App\View\Helper\vaHelper::baseurl() - APP/Template\Home\products.ctp, line 6
+include - APP/Template\Home\products.ctp, line 6
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-28 04:37:24 Error: Fatal Error (4): syntax error, unexpected '{' in [C:\xampp_new\htdocs\va\src\Controller\HomeController.php, line 110]
+Request URL: /va/home/products
+Referer URL: http://localhost/va/home/neko
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 04:37:24 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '{'
+Request URL: /va/home/products
+Referer URL: http://localhost/va/home/neko
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 110)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 04:50:12 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\xampp_new\htdocs\va\src\Controller\HomeController.php, line 116]
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/cart
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 04:50:13 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ')'
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/cart
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 116)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 04:50:28 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\xampp_new\htdocs\va\src\Controller\HomeController.php, line 116]
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/cart
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 04:50:29 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ')'
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/cart
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 116)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 04:50:36 Error: Fatal Error (4): syntax error, unexpected ')' in [C:\xampp_new\htdocs\va\src\Controller\HomeController.php, line 116]
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/cart
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 04:50:37 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ')'
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/cart
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 116)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 04:54:18 Error: Fatal Error (1): Call to a member function session() on a non-object in [C:\xampp_new\htdocs\va\vendor\NekoCart\NekoCart.php, line 17]
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/addtocart
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 04:54:18 Error: [Cake\Error\FatalErrorException] Call to a member function session() on a non-object
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/addtocart
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp_new\\ht...', 17)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 05:07:27 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [C:\xampp_new\htdocs\va\src\Controller\HomeController.php, line 52]
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/products
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-28 05:07:28 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/products
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 52)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-28 05:28:43 Warning: Warning (512): Method App\View\Helper\vaHelper::siteurl does not exist in [C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\Helper.php, line 140]
+Request URL: /va/home/cart
+Referer URL: http://localhost/va/home/cart
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+Cake\View\Helper::__call() - CORE\src\View\Helper.php, line 140
+App\View\Helper\vaHelper::siteurl() - APP/Template\Home\cart.ctp, line 10
+include - APP/Template\Home\cart.ctp, line 10
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-28 05:43:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 05:43:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 05:43:54 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-28 05:43:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 03:52:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 03:52:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 03:53:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 03:53:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 03:55:26 Error: Fatal Error (4): syntax error, unexpected '?>' in [C:\xampp_new\htdocs\va\src\Template\Element\navbar.ctp, line 21]
+Request URL: /va/admin/inqueries
+Referer URL: http://localhost/va/admin/addproduct
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-29 03:55:27 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '?>'
+Request URL: /va/admin/inqueries
+Referer URL: http://localhost/va/admin/addproduct
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 21)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-29 03:55:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 03:55:46 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 03:56:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 03:56:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 03:58:08 Error: [Cake\Controller\Exception\MissingActionException] Action AdminController::orders() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'AdminController',
+  'action' => 'orders',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/dashboard
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AdminController))
+#2 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2016-06-29 04:09:20 Error: Fatal Error (4): syntax error, unexpected ''orders'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 234]
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/dashboard
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-29 04:09:21 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ''orders'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/dashboard
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 234)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-29 04:09:25 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 234]
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/dashboard
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-29 04:09:26 Error: [Cake\Error\FatalErrorException] Call to a member function find() on a non-object
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/dashboard
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp_new\\ht...', 234)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-29 04:12:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 04:12:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 04:12:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-29 04:12:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 03:50:09 Error: [InvalidArgumentException] Orders is not associated with Supplies
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/dashboard
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(252): Cake\ORM\EagerLoader->_normalizeContain(Object(Cake\ORM\Table), 'Supplies', Array, Array)
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(377): Cake\ORM\EagerLoader->normalized(Object(Cake\ORM\Table))
+#2 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(348): Cake\ORM\EagerLoader->attachableAssociations(Object(Cake\ORM\Table))
+#3 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Query.php(947): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(Cake\ORM\Table), true)
+#4 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Query.php(901): Cake\ORM\Query->_transformQuery()
+#5 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(121): Cake\ORM\Query->sql()
+#6 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Connection.php(216): Cake\Database\Driver\Mysql->prepare(Object(Cake\ORM\Query))
+#7 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Connection.php(268): Cake\Database\Connection->prepare(Object(Cake\ORM\Query))
+#8 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Query.php(188): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#9 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Query.php(921): Cake\Database\Query->execute()
+#10 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(272): Cake\ORM\Query->_execute()
+#11 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Query.php(871): Cake\ORM\Query->_all()
+#12 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(288): Cake\ORM\Query->all()
+#13 C:\xampp_new\htdocs\va\vendor\cakephp\debug_kit\src\Panel\VariablesPanel.php(77): Cake\ORM\Query->toArray()
+#14 [internal function]: DebugKit\Panel\VariablesPanel->DebugKit\Panel\{closure}(Object(Cake\ORM\Query), 'orders')
+#15 C:\xampp_new\htdocs\va\vendor\cakephp\debug_kit\src\Panel\VariablesPanel.php(106): array_walk_recursive(Array, Object(Closure))
+#16 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Event\EventManager.php(386): DebugKit\Panel\VariablesPanel->shutdown(Object(Cake\Event\Event))
+#17 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Event\EventManager.php(356): Cake\Event\EventManager->_callListener(Array, Object(Cake\Event\Event))
+#18 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Event\EventDispatcherTrait.php(78): Cake\Event\EventManager->dispatch(Object(Cake\Event\Event))
+#19 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Controller\Controller.php(512): Cake\Controller\Controller->dispatchEvent('Controller.shut...')
+#20 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(125): Cake\Controller\Controller->shutdownProcess()
+#21 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AdminController))
+#22 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#23 {main}
+
+
+2016-06-30 04:05:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:05:38 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:10:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:10:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:11:54 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:11:55 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:25:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:25:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:25:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:25:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:43:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:43:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:44:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:44:35 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:45:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:45:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:46:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:46:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:48:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:48:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:48:57 Error: [BadMethodCallException] Unknown method "result"
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Query.php(1077): Cake\ORM\Query->_call('result', Array)
+#1 C:\xampp_new\htdocs\va\src\Template\Admin\orders.ctp(25): Cake\ORM\Query->__call('result', Array)
+#2 C:\xampp_new\htdocs\va\src\Template\Admin\orders.ctp(25): Cake\ORM\Query->result()
+#3 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(992): include('C:\\xampp_new\\ht...')
+#4 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(952): Cake\View\View->_evaluate('C:\\xampp_new\\ht...', Array)
+#5 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(587): Cake\View\View->_render('C:\\xampp_new\\ht...')
+#6 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#7 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#8 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AdminController))
+#9 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#10 {main}
+
+
+2016-06-30 04:49:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:49:34 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:50:25 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:50:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:51:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:51:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:52:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:52:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:55:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:55:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:57:51 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:57:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:59:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 04:59:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:12:35 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 239]
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-30 05:12:36 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 239)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-30 05:12:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:12:53 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:13:41 Error: Fatal Error (1): Call to a member function find() on a non-object in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 243]
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-30 05:13:42 Error: [Cake\Error\FatalErrorException] Call to a member function find() on a non-object
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp_new\\ht...', 243)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-30 05:14:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:14:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:23:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:23:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:24:49 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:24:49 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:26:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:26:24 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:26:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:27:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:29:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:29:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:32:48 Error: Fatal Error (4): syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 238]
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-30 05:32:48 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 238)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-30 05:32:52 Error: Fatal Error (4): syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 238]
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-30 05:32:53 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 238)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-30 05:33:09 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [C:\xampp_new\htdocs\va\src\Controller\AdminController.php, line 240]
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 215
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2016-06-30 05:33:09 Error: [Cake\Error\FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp_new\\ht...', 240)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2016-06-30 05:33:28 Error: [InvalidArgumentException] Orders is not associated with supplies
+Request URL: /va/admin/orders
+Referer URL: http://localhost/va/admin/orders
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(252): Cake\ORM\EagerLoader->_normalizeContain(Object(Cake\ORM\Table), 'supplies', Array, Array)
+#1 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(377): Cake\ORM\EagerLoader->normalized(Object(Cake\ORM\Table))
+#2 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\EagerLoader.php(348): Cake\ORM\EagerLoader->attachableAssociations(Object(Cake\ORM\Table))
+#3 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Query.php(947): Cake\ORM\EagerLoader->attachAssociations(Object(Cake\ORM\Query), Object(Cake\ORM\Table), true)
+#4 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Query.php(901): Cake\ORM\Query->_transformQuery()
+#5 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(121): Cake\ORM\Query->sql()
+#6 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Connection.php(216): Cake\Database\Driver\Mysql->prepare(Object(Cake\ORM\Query))
+#7 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Connection.php(268): Cake\Database\Connection->prepare(Object(Cake\ORM\Query))
+#8 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Database\Query.php(188): Cake\Database\Connection->run(Object(Cake\ORM\Query))
+#9 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Query.php(921): Cake\Database\Query->execute()
+#10 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(272): Cake\ORM\Query->_execute()
+#11 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\ORM\Query.php(871): Cake\ORM\Query->_all()
+#12 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Datasource\QueryTrait.php(131): Cake\ORM\Query->all()
+#13 C:\xampp_new\htdocs\va\src\Template\Admin\orders.ctp(25): Cake\ORM\Query->getIterator()
+#14 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(992): include('C:\\xampp_new\\ht...')
+#15 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(952): Cake\View\View->_evaluate('C:\\xampp_new\\ht...', Array)
+#16 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\View\View.php(587): Cake\View\View->_render('C:\\xampp_new\\ht...')
+#17 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Controller\Controller.php(611): Cake\View\View->render(NULL, NULL)
+#18 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(120): Cake\Controller\Controller->render()
+#19 C:\xampp_new\htdocs\va\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\AdminController))
+#20 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2016-06-30 05:34:31 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_both.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-06-30 05:34:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /va/css/DataTables-1.10.10/images/sort_asc.png
+Referer URL: http://localhost/va/css/dataTable.css
+Stack Trace:
+#0 C:\xampp_new\htdocs\va\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+

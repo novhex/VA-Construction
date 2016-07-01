@@ -9,13 +9,12 @@
 	<title><?= h($dashboard['page_title']); ?></title>
 <body>
 	<?php
-		if(isset($_SESSION['admin_account'])!=''){
+		if(!empty($_SESSION['Config']['admin_account'])){
 			echo $this->element('navbar');
 		}else{
 
 		}
 	?>
-
 
 		<?= $this->fetch('content'); ?>
 	

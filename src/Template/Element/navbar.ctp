@@ -14,13 +14,15 @@
             <li class=""><a href="<?= $this->va->site_url('admin'); ?>"><i class="fa fa-dashboard"></i> Home</a></li>
             
         <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-building"></i> Supply <span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-list"></i> Products <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="<?= $this->va->site_url('admin/supplies'); ?>"><i class="fa fa-plus"></i> Add Supply</a></li>
-                  <li><a href="<?= $this->va->site_url('admin/viewsupplies'); ?>"><i class="fa fa-search"></i> View Supplies</a></li>
+                  <li><a href="<?= $this->va->site_url('admin/addproduct'); ?>"><i class="fa fa-plus"></i> Add Product</a></li>
+                  <li><a href="<?= $this->va->site_url('admin/viewsupplies'); ?>"><i class="fa fa-search"></i> View  Products</a></li>
+
                 </ul>
               </li>
-            <li><a href="<?= $this->va->site_url('admin/inqueries'); ?>"><i class="fa fa-phone"></i> Inqueries</a></li>
+            <li><a href="<?= $this->va->site_url('admin/orders'); ?>"><i class="fa fa-shopping-cart"></i> Orders <label class="label label-success" style="border-radius:20px;"> 0</label> </a></li>  
+            <li><a href="<?= $this->va->site_url('admin/inqueries'); ?>"><i class="fa fa-phone"></i> Inquiries</a></li>
             <li><a href="#" id="logout"><i class="fa fa-unlock"></i> Logout <?= $this->va->get_admin_session(); ?></a></li>
 
           </ul>

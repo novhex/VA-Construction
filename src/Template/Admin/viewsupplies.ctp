@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="col-md-12">
 			 
-				<h1 style="text-align: center;"> Supplies </h1>
+				<h1 style="text-align: center;"> Products </h1>
 				<?= $this->Flash->render();?>
 
 				<div class="table-responsive">
@@ -10,9 +10,10 @@
 						<thead>
 						<tr>
 							<th> # </th>
-							<th> Supply Name </th>
+							<th> Product Name </th>
 							<th> Description </th>
-							<th> Supply Price </th>
+							<th> Product Price </th>
+							<th> Stock on hand </th>
 							<th> Photo </th>
 							<th> Option </th>
 						</tr>
@@ -24,6 +25,7 @@
 								<td><?= $index['supply_name']; ?></td>
 								<td><?= $index['supply_description']; ?></td>
 								<td><?= $index['supply_price']; ?></td>
+								<td><?= $index['supply_stock'];?></td>
 								<td><?= "<img class='img-responsive img-thumbnail' style='width:50px; height:50px;' src='".$this->va->site_url('/uploads/').$index['supply_img']."'>";?></td>
 								<td>
 									<a  data-id="<?= $index['supply_id'];?>" class="edit_supply btn btn-primary btn-sm"><i class="fa fa-pencil"></i> Edit</a>
